@@ -1,0 +1,24 @@
+/* Class = "NSTextFieldCell"; placeholderString = "Preview info"; ObjectID = "13i-Py-kwg"; */
+"13i-Py-kwg.placeholderString" = "预览信息";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Group title"; ObjectID = "ahK-H1-yKJ"; */
+"ahK-H1-yKJ.placeholderString" = "编组标题";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Library title"; ObjectID = "dHc-oc-wIc"; */
+"dHc-oc-wIc.placeholderString" = "组件库标题";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Component title"; ObjectID = "F5j-1i-Jpe"; */
+"F5j-1i-Jpe.placeholderString" = "组件标题";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Section title"; ObjectID = "fBR-JB-6FM"; */
+"fBR-JB-6FM.placeholderString" = "分段标题";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Library title"; ObjectID = "mjC-3w-vgI"; */
+"mjC-3w-vgI.placeholderString" = "组件库标题";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "nre-7K-QAo"; */
+"nre-7K-QAo.title" = "文本单元格";
+
+/* Class = "NSSearchFieldCell"; placeholderString = "Filter"; ObjectID = "sGL-KQ-C9F"; */
+"sGL-KQ-C9F.placeholderString" = "筛选";
+
